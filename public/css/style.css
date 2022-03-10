@@ -1,0 +1,20 @@
+.card-img {
+    height: 400px;
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+}
+span.btn-outline-primary{
+    margin-top: 10px !important;
+    margin-right: 10px !important;
+}
+span.add.btn.btn-outline-primary{
+    padding: 3px 6px;
+}
+.soc_img .col{
+    flex-grow: 0.1 !important;
+}
+.img_user{
+    width: 30px !important;
+}
